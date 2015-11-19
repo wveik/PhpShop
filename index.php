@@ -8,8 +8,7 @@
 </head>
 <body>
 
-<div id="block-body">
-    
+<div id="block-body">    
 	
 <?php 
 	include("include/block-header.php")
