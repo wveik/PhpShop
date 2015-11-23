@@ -14,7 +14,11 @@
 	include("include/block-header.php")
 ?>
 
-<div id="block-right"></div>
+<div id="block-right">
+<?php 
+	include("include/block-category.php")
+?>
+</div>
 
 
 <div id="block-content"></div>

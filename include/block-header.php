@@ -1,6 +1,6 @@
 <div id="block-header">
 	<div id="header-top-block">
-		<ul id="header-top-menu">
+		<ul id="header-top-menu" class="ul-menu">
 			<li>Ваш город - <span>Москва</span></li>
 			<li><a href="o-nas.php">О нас</a></li>
 			<li><a href="magaziny.php">Магазины</a></li>
@@ -44,13 +44,13 @@
 </div>
 
 <div id="top-menu">
-	<ul>
+	<ul class="ul-menu">
 		<li><img src="images/shop.png" /><a href="index.php">Главная</a></li>
 		<li><img src="images/new-32.png" /><a href="view_aystopper.php?go=news">Новинки</a></li>
 		<li><img src="images/bestprice-32.png" /><a href="view_aystopper.php?go=leaders">Лидеры продаж</a></li>
 		<li><img src="images/sale-32.png" /><a href="view_aystopper.php?go=sale">Распродажа</a></li>
 	</ul>
-	<p align="right" id="block-basket"><img src="/images/cart-icon.png" /><a href="cart.php?action=oneclick" >Корзина пуста</a></p>
+	<p align="right" id="block-basket"><img src="images/cart-icon.png" /><a href="cart.php?action=oneclick" >Корзина пуста</a></p>
 	<div id="nav-line"></div>
 </div>
 
